@@ -1,0 +1,32 @@
+.container{
+	width: 800px;
+    height: auto;
+    margin: 0 auto;
+    background: white;
+}
+body {
+    background: #E8E8E8 !important;
+}
+.q-form{
+	margin-top: 10%;
+	margin-left: 10%;
+}
+
+ul {
+    list-style: none;
+}
+.header{
+    text-align: center;
+    padding-top: 25px;
+}
+h3{
+    padding-left: 10px;
+}
+
+.btn-lg{
+    margin-top: 5%;
+    margin-left: 35%;
+	margin-bottom: 10%;
+    background-color: #CFE2F3;
+	border: 3px solid black;
+}
